@@ -1,19 +1,10 @@
-{
-  "activitycontinuation": {
-    "apps": [
-      "5C587C3LM4.com.Gemini.Ayyappa"
-    ]
-  },
-  "applinks": {
-    "apps": [
-      
-    ],
+{ 
+"applinks": {
+    "apps": [],
     "details": [
       {
         "appID": "5C587C3LM4.com.Gemini.Ayyappa",
-        "paths": [
-          "*"
-        ]
+        "paths": ["*"]
       }
     ]
   }
